@@ -1,0 +1,19 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "NPM tutorial",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server":"live-server"
+  },
+  "author": "mr mizan",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "underscore": "^1.13.2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
